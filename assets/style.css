@@ -1,0 +1,56 @@
+body{
+    background-color:rgb(249, 245, 245)
+}
+
+#weekDeal img{
+    width: 100%; 
+  aspect-ratio: 1/1; 
+  object-fit: cover;
+}
+
+#whoAreWe{
+    margin-top: 15rem;
+    margin-bottom: 25rem;
+}
+
+h1{
+    margin-bottom: 2rem;
+}
+
+h2{
+    margin-left: 4rem;
+    margin-bottom: 5rem;
+}
+
+#weekDeal{
+    margin-bottom: 10rem;
+    
+}
+
+#dayDeal{
+    margin-top: 15rem;
+}
+
+#dayDeal img{
+    width: 100%;
+}
+
+#lastMinute h5 {
+    text-shadow: 
+        -1px -1px 0 #000,  
+         1px -1px 0 #000,
+        -1px  1px 0 #000,
+         1px  1px 0 #000; 
+}
+
+#lastMinute{
+    margin-top: 15rem;
+}
+
+#testimonial{
+    margin-top: 15rem;
+}
+
+#contact{
+    padding: 1rem;
+}
