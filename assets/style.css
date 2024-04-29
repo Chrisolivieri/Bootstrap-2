@@ -54,3 +54,15 @@ h2{
 #contact{
     padding: 1rem;
 }
+
+footer{
+    background-color: rgb(155, 140, 140);
+}
+ main button{
+    margin-left: 4rem;
+    margin-bottom: 5rem;
+ }
+
+ .invisible{
+    display: none;
+ }
